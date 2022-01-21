@@ -51,6 +51,7 @@
   - 선정이유: 훈련/검증 정확도 모두 편차가 크지 않으며, AUC Score가 가장 우수
   
 5. 결과 및 회고  
+
  <img src='https://github.com/Sanghoon-Oh-34/cs_project02/blob/main/2.%20Slides/26.jpg' width='400px' height='300px'></img>
  <img src='https://github.com/Sanghoon-Oh-34/cs_project02/blob/main/2.%20Slides/27.jpg' width='400px' height='300px'></img>
 * 다양한 머신러닝 모델을 상호 비교하고, 이를 하이퍼파라미터 튜닝을 통해 성능을 개선
